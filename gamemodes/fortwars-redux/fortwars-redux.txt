@@ -1,0 +1,8 @@
+"fortwars-redux"
+{
+	"base"		"base"
+	"title"		"Fortwars Redux"
+	"maps"		"^fw_"
+	"category"	"pvp"
+	"menusystem"	"1"
+}

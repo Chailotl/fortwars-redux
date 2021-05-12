@@ -13,7 +13,7 @@ ROUND_ACTIVE	= 3
 ROUND_POST		= 4
 
 function GM:Initialize()
-
+	GAMEMODE.Round = ROUND_WAIT
 end
 
 function GM:CreateTeams()

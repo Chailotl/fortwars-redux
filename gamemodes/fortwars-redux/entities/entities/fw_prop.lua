@@ -1,7 +1,7 @@
 AddCSLuaFile()
 
-ENT.Type	= "anim"
-ENT.Name	= "Block"
+ENT.Type = "anim"
+ENT.Name = "Block"
 
 function ENT:SetupDataTables()
 	self:NetworkVar( "Int", 0, "Team" )
